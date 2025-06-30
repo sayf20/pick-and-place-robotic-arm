@@ -10,7 +10,8 @@ This project focuses on designing and prototyping a **Pick-and-Place Robotic Arm
 
 > 🔧 Le bras robotique a été conçu et assemblé dans **Fusion 360**, puis simulé et testé à l'aide d'un **Arduino Uno**, de **6 servomoteurs** et d'une détection ultrasonique (HC-SR04).
 
-📸 **Preview:** 3D model, organigram, hardware prototype (media/realmodel.jpg)
+📸 **Preview:** 3D model, organigram, hardware prototype 
+[exemple](media/realmodel.jpg)
 ---
 
 ## ✨ Features
